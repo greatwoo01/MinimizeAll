@@ -1,0 +1,22 @@
+# Swift / SPM
+.build/
+.swiftpm/
+
+# Xcode
+*.xcuserstate
+*.xcuserdata/
+xcuserdata/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# SwiftPM derived
+DerivedData/
+Package.resolved
+
+# Build products
+*.app/
